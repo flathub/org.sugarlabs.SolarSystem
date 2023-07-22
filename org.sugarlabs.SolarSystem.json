@@ -38,6 +38,10 @@
                 },
                 {
                     "type": "patch",
+                    "path": "solarsystem-webkitfix.patch"
+                },
+                {
+                    "type": "patch",
                     "path": "solarsystem-info.patch"
                 }
             ],
