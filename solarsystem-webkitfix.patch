@@ -1,0 +1,13 @@
+diff --git a/infoview.py b/infoview.py
+index 6466fff..b1a604e 100644
+--- a/infoview.py
++++ b/infoview.py
+@@ -23,7 +23,7 @@ from constants import CelestialBodyType
+ from utils import get_data_file
+ 
+ gi.require_version("Gtk", "3.0")
+-gi.require_version("WebKit2", "4.0")
++gi.require_version("WebKit2", "4.1")
+ 
+ from gi.repository import Gtk
+ from gi.repository import WebKit2
